@@ -58,6 +58,7 @@ const testimonials: Testimonial[] = [
 export default function Page() {
   return (
     <main className="flex min-h-screen items-center justify-center p-6">
+      <h1 className="sr-only">Testimonials grid section challenge</h1>
       <Testimonials testimonials={testimonials} />
     </main>
   );
