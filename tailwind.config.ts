@@ -9,7 +9,7 @@ export default {
   theme: {
     extend: {
       screens: {
-        lg: '80rem',
+        lg: '72.375rem',
       },
     },
   },
