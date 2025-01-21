@@ -40,5 +40,5 @@ Users should be able to:
 
 ## Links
 
-- Solution URL: [Frontend Mentor ↗](https://your-solution-url.com)
-- Live Site URL: [Open on Vercel ↗](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor ↗](https://www.frontendmentor.io/solutions/testimonials-grid-section--PuGW31dVW)
+- Live Site URL: [Open on Vercel ↗](https://testimonials-grid-section-flax-nu.vercel.app)
