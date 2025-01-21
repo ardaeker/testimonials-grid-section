@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     'TypeScript',
     'Arda Eker',
   ],
-  metadataBase: new URL('http://localhost:3000'),
+  metadataBase: new URL('https://testimonials-grid-section-flax-nu.vercel.app/'),
   openGraph: {
     title: 'Frontend Mentor - Testimonials grid section',
     description:
@@ -47,7 +47,7 @@ export const metadata: Metadata = {
     ],
   },
   alternates: {
-    canonical: 'http://localhost:3000',
+    canonical: 'https://testimonials-grid-section-flax-nu.vercel.app',
   },
   icons: {
     icon: '/favicon.png',
