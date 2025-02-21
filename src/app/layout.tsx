@@ -16,9 +16,9 @@ export const viewport: Viewport = {
 };
 
 export const metadata: Metadata = {
-  title: 'Frontend Mentor - Testimonials grid section',
+  title: 'Arda Eker - Testimonials grid section',
   description:
-    'This website is a solution for the Testimonials grid section challenge on Frontend Mentor. It is built with Next.js and Tailwind CSS. Coded by Arda Eker.',
+    'A semantic and accessible grid layout with responsive design and SEO optimization.',
   authors: {
     name: 'Arda Eker',
     url: 'https://github.com/ardaeker',
@@ -36,10 +36,10 @@ export const metadata: Metadata = {
   ],
   metadataBase: new URL('https://testimonials-grid-section-flax-nu.vercel.app/'),
   openGraph: {
-    title: 'Frontend Mentor - Testimonials grid section',
+    title: 'Arda Eker - Testimonials grid section',
     description:
-      'This website is a solution to the Testimonials grid section challenge on Frontend Mentor. It is built with Next.js, Tailwind CSS, and TypeScript. Coded by Arda Eker.',
-    siteName: 'Frontend Mentor - Testimonials grid section',
+      'A semantic and accessible grid layout with responsive design and SEO optimization.',
+    siteName: 'Arda Eker - Testimonials grid section',
     images: [
       {
         url: 'opengraph-image.png',
@@ -48,9 +48,6 @@ export const metadata: Metadata = {
   },
   alternates: {
     canonical: 'https://testimonials-grid-section-flax-nu.vercel.app',
-  },
-  icons: {
-    icon: '/favicon.png',
   },
 };
 export default function RootLayout({
